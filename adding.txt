@@ -1,7 +1,4 @@
 Pushing a file
 push 2nd file
-<<<<<<< HEAD
 push3 rd file
-=======
 push 4th file
->>>>>>> alpha1
